@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background: #0D090A;
+  color: #EAF2EF;
+  font-family: 'Roboto Slab', serif;
+}
+
+.message {
+  height: 90vh;
+  text-align: center;
+  margin: 20vh 0 -35vh;
+}
+
+.message h1 {
+  padding: 50px;
+  color: #00A9A5;
+}
+
+.message h3 {
+  color: #E35D6A;
+}
+
+.footer {
+  height: 10vh;
+  text-align: center;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #00A9A5;
+}
